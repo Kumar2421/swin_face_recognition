@@ -1,6 +1,5 @@
 
 
-https://github.com/user-attachments/assets/1d5ff72c-abb9-4cb4-8c36-0cd5d81c4a59
 
 
 # swin_face_recognition
