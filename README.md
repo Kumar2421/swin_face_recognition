@@ -98,26 +98,3 @@ This will open a webcam window for capturing and recognizing faces. Press 'q' to
 - **OpenCV**: OpenCV is used for capturing images from the webcam and displaying results.
 
 
-# Author
-
-| Sr. No. | Name                | Email                                   | LinkedIn                                  | GitHub                                    |
-|---------|---------------------|-----------------------------------------|-------------------------------------------|-------------------------------------------|
-| 1       | Ketaki Bharati       | [Email](mailto:ketakibharati8@gmail.com) | [LinkedIn](https://linkedin.com/in/ketaki-bharati) | [GitHub](https://github.com/ketakibharati8)  |
-| 2       | Vaishnav Gonare      | [Email](mailto:gonarevaishnav@gmail.com)  | [LinkedIn](https://in.linkedin.com/in/vaishnav-gonare-44238922a) | [GitHub](https://github.com/Gonare-22) |
-| 3       | Sahil Arjapure       | [Email](mailto:sahil.arjapure@example.com) | [LinkedIn](https://in.linkedin.com/in/sahil-arjapure-592769229) | [GitHub](https://github.com/sahilarjapure)  |
-| 4       | Sudarshan Bhagat     | [Email](mailto:sudarshan.bhagat@example.com) | [LinkedIn](https://www.linkedin.com/in/sudarshan-bhagat-3019962a5) | [GitHub](https://github.com/sudarshanbhagat) |
-
-
-# Citation Request
-
-If you find this project useful or if it contributes to your work, I kindly ask that you cite it as the authors:
-
-
-For reference, please use the following citation format:
-
-> Bharati, K.,Gonare, V., Arjapure, S., Bhagat, S.(2024). *Face Recognition System with Swin Transformer and SVM Classifier*. Retrieved from [https://github.com/ketakibharati8/Face_Recognition_System_with-_Swin_Transformer_and_SVM_Classifier](https://github.com/ketakibharati8/Face_Recognition_System_with-_Swin_Transformer_and_SVM_Classifier)
-
-
-# License
-
-This project is licensed under the MIT License with the following conditions: users are permitted to use, modify, distribute, and sell copies of the software, provided that the copyright notice and permission notice are included in all copies or substantial portions of the software. Proper attribution to all the contributors is required for any derived or redistributed work, and commercial use is prohibited without prior written consent. Modifications to the software must be clearly marked, and any changes should be documented. The software remains the intellectual property of all the contributors, and it is provided "as is" without any warranties or liabilities.
