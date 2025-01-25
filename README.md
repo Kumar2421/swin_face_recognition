@@ -7,6 +7,9 @@
 switch to master branch !
 
 
+https://github.com/user-attachments/assets/94d5e41c-9344-473e-8bf7-41ba23f34e6f
+
+
 # Face Recognition System with Swin Transformer and SVM Classifier
 
 This repository contains an advanced face recognition solution that uses the **Swin Transformer model** for feature extraction and an **SVM classifier** for identifying individuals. The application performs real-time face recognition using webcam input.
@@ -30,7 +33,6 @@ This system utilizes deep learning for **face recognition** by:
 
 ## Installation Instructions  
 
-https://github.com/user-attachments/assets/94d5e41c-9344-473e-8bf7-41ba23f34e6f
 
 
 
